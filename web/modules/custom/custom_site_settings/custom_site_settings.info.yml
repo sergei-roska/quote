@@ -1,0 +1,5 @@
+name: 'Custom site settings'
+type: module
+description: 'A form that allows show the current site name'
+core: 8.x
+package: 'Custom'

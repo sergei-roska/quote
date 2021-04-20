@@ -1,0 +1,6 @@
+article_block.publish_control_form:
+  title: 'Publish Control'
+  route_name: article_block.publish_control_form
+  description: 'A description for the menu entry'
+  parent: system.admin_config_system
+  weight: -19

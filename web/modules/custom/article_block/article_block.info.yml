@@ -1,0 +1,7 @@
+name: 'article block'
+type: module
+description: 'Show articles under main page content'
+core: 8.x
+package: 'Custom'
+dependencies:
+  - node

@@ -1,0 +1,4 @@
+services:
+  article_block.node.statistics:
+    class: Drupal\article_block\NodeStatisticsService
+    arguments: ['@database', '@state', '@request_stack', '@current_user']

@@ -1,0 +1,26 @@
+<?php
+
+/**
+ * @file
+ * Contains article_block.module.
+ */
+
+use Drupal\node\NodeInterface;
+use Drupal\Core\Entity\Display\EntityViewDisplayInterface;
+
+/**
+ * Implements hook_ENTITY_TYPE_view() for node entities.
+ */
+function article_block_node_view(array &$build, NodeInterface $node, EntityViewDisplayInterface $display, $view_mode) {
+  if (!$node->isNew() && $view_mode == 'full' && node_is_page($node) && empty($node->in_preview)) {
+    $build['#attached']['drupalSettings']['article_block']['nid'] = $node->id();
+    $build['#attached']['library'][] = 'article_block/article_block.statistics';
+  }
+}
+
+/**
+ * Implements hook_cron().
+ */
+function article_block_cron() {
+  \Drupal::service('article_block.node.statistics')->resetDayCount();
+}

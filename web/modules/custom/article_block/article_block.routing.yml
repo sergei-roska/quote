@@ -1,0 +1,17 @@
+article_block.publish_control_form:
+  path: '/publish_control'
+  defaults:
+    _form: '\Drupal\article_block\Form\PublishControlForm'
+    _title: 'Publish Control'
+  requirements:
+    _permission: 'administer nodes'
+  options:
+    _admin_route: TRUE
+
+article_block.node_counter_controller_ajaxCall:
+  path: '/article_block/{nid}/ajax-call'
+  defaults:
+    _controller: '\Drupal\article_block\Controller\NodeCounterController::ajaxCall'
+    _title: 'ajaxCall'
+  requirements:
+    _permission: 'access content'

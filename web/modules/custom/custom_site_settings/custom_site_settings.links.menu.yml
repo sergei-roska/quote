@@ -1,0 +1,6 @@
+custom_site_settings.site_settings_form:
+  title: 'Site Settings'
+  route_name: custom_site_settings.site_settings_form
+  description: 'Change site name. Extends SiteInformationForm.'
+  parent: system.admin_config_system
+  weight: -20

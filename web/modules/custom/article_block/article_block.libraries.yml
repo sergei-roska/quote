@@ -1,0 +1,4 @@
+article_block.statistics:
+  version: VERSION
+  js:
+    js/statistics.js: {}

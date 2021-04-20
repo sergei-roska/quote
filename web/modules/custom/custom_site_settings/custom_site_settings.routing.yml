@@ -1,0 +1,9 @@
+custom_site_settings.site_settings_form:
+  path: '/custom-site-settings'
+  defaults:
+    _form: '\Drupal\custom_site_settings\Form\SiteSettingsForm'
+    _title: 'Site Settings'
+  requirements:
+    _permission: 'administer custom site settings'
+  options:
+    _admin_route: TRUE

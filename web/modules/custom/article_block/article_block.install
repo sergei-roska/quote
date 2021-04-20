@@ -1,0 +1,70 @@
+<?php
+
+use Drupal\Core\Database\Database;
+
+/**
+ * Implements hook_uninstall().
+ */
+function article_block_uninstall() {
+  // Remove state.
+  \Drupal::state()->delete('article_block.day_timestamp');
+
+  $connection = Database::getConnection();
+  $schema = $connection->schema();
+  $table_exists = $schema->tableExists('article_node_counter');
+  if ($table_exists) {
+    $schema->dropTable('article_node_counter');
+  }
+}
+
+/**
+ * Implements hook_schema().
+ */
+function article_block_schema() {
+  $schema['article_node_counter'] = [
+    'description' => 'Access statistics for {node}s.',
+    'fields' => [
+      'nid' => [
+        'description' => 'The {node}.nid for these statistics.',
+        'type' => 'int',
+        'unsigned' => TRUE,
+        'not null' => TRUE,
+        'default' => 0,
+      ],
+      'user' => [
+        'description' => 'The {user}.uid for these statistics.',
+        'type' => 'int',
+        'unsigned' => TRUE,
+        'not null' => TRUE,
+        'default' => 0,
+      ],
+      'totalcount' => [
+        'description' => 'The total number of times the {node} has been viewed.',
+        'type' => 'int',
+        'unsigned' => TRUE,
+        'not null' => TRUE,
+        'default' => 0,
+        'size' => 'big',
+      ],
+      'daycount' => [
+        'description' => 'The total number of times the {node} has been viewed today.',
+        'type' => 'int',
+        'unsigned' => TRUE,
+        'not null' => TRUE,
+        'default' => 0,
+        'size' => 'medium',
+      ],
+      'timestamp' => [
+        'description' => 'The most recent time the {node} has been viewed.',
+        'type' => 'int',
+        'unsigned' => TRUE,
+        'not null' => TRUE,
+        'default' => 0,
+      ],
+    ],
+    'primary key' => ['nid'],
+  ];
+
+  return $schema;
+}
+
