@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="986eb7e2-b858-4bab-8251-72b895a5fb50" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/sites/default/files/sync/block.block.bartik_content.yml" beforeDir="false" afterPath="$PROJECT_DIR$/web/sites/default/files/sync/block.block.bartik_content.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/sites/default/files/sync/block.block.bartik_help.yml" beforeDir="false" afterPath="$PROJECT_DIR$/web/sites/default/files/sync/block.block.bartik_help.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/sites/default/files/sync/block.block.bartik_local_actions.yml" beforeDir="false" afterPath="$PROJECT_DIR$/web/sites/default/files/sync/block.block.bartik_local_actions.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/sites/default/files/sync/block.block.bartik_local_tasks.yml" beforeDir="false" afterPath="$PROJECT_DIR$/web/sites/default/files/sync/block.block.bartik_local_tasks.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/sites/default/files/sync/block.block.bartik_page_title.yml" beforeDir="false" afterPath="$PROJECT_DIR$/web/sites/default/files/sync/block.block.bartik_page_title.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/modules/custom/random_quote/src/MashapeQuots.php" beforeDir="false" afterPath="$PROJECT_DIR$/web/modules/custom/random_quote/src/MashapeQuots.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,6 +152,7 @@
       <workItem from="1618480429507" duration="210000" />
       <workItem from="1618480858951" duration="11000" />
       <workItem from="1618893717273" duration="2775000" />
+      <workItem from="1618951909398" duration="60000" />
     </task>
     <servers />
   </component>

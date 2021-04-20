@@ -11,11 +11,6 @@ use Drupal\Component\Serialization\Json;
 class MashapeQuots {
 
   /**
-   * Random quotes REST API url.
-   */
-  const FFW_RANDOM_QUOTE_URL = 'https://api.quotable.io/random';
-
-  /**
    * The HTTP client to fetch the feed data with.
    *
    * @var \GuzzleHttp\ClientInterface
@@ -39,7 +34,7 @@ class MashapeQuots {
    *   Returns an array with quote details.
    */
   public function getQuote() {
-    $response = $this->httpClient->get(MashapeQuots::FFW_RANDOM_QUOTE_URL);
+    $response = $this->httpClient->get('https://api.quotable.io/random');
     $response_content = $response->getBody()->getContents();
     $decoded = Json::decode($response_content);
 
