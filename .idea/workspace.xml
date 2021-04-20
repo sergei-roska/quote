@@ -2,70 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="986eb7e2-b858-4bab-8251-72b895a5fb50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/css/css_2D-NpBNJAvL-bzNQRCdDC_63sW5jbZF-0ExNMZatLKs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/css/css_2D-NpBNJAvL-bzNQRCdDC_63sW5jbZF-0ExNMZatLKs.css.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/css/css_8qh3rDq7iozD1CLIpwred21aAqDJzB2EFk79jIFgECA.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/css/css_8qh3rDq7iozD1CLIpwred21aAqDJzB2EFk79jIFgECA.css.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/css/css_9lyWVj6mDQM8tYpGzTo4P208jPhdc48liFePg-gDSnY.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/css/css_9lyWVj6mDQM8tYpGzTo4P208jPhdc48liFePg-gDSnY.css.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/css/css_EmSEHfuTIE_37-ICZZXEedWzs9TuiUCDT52q9ld_xnI.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/css/css_EmSEHfuTIE_37-ICZZXEedWzs9TuiUCDT52q9ld_xnI.css.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/css/css_P8gCapOcdwdWCothaIppq--ypZk69J2y3qh0DYo_KqE.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/css/css_P8gCapOcdwdWCothaIppq--ypZk69J2y3qh0DYo_KqE.css.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/css/css_S10HS1UmIk-DxzoAs88dDFvT31kd4xgPa4-chaomJ08.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/css/css_S10HS1UmIk-DxzoAs88dDFvT31kd4xgPa4-chaomJ08.css.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/css/css_ShHXR_j21JOuPzqQQSmO_l4v1wIjkQr7FrTzWdHjoyo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/css/css_ShHXR_j21JOuPzqQQSmO_l4v1wIjkQr7FrTzWdHjoyo.css.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/css/css_XyUzCDMoBePjDmMHNmdfh5dj6xM9BVdSfX4yWPAjZMw.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/css/css_XyUzCDMoBePjDmMHNmdfh5dj6xM9BVdSfX4yWPAjZMw.css.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/css/css_iMjFysTytkUbXDC9imU-kRznzgZ07H4AZ9_gUwL4za4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/css/css_iMjFysTytkUbXDC9imU-kRznzgZ07H4AZ9_gUwL4za4.css.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/css/css_rT06N1hzNwWZvlauEGw5ZNFVKBrR23ibx56HC8Lyx4M.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/css/css_rT06N1hzNwWZvlauEGw5ZNFVKBrR23ibx56HC8Lyx4M.css.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/js/js_NS10hLQ-pB4KwBRqJYeDXYhwG0x7WA7n9L4AXqi9h4o.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/js/js_NS10hLQ-pB4KwBRqJYeDXYhwG0x7WA7n9L4AXqi9h4o.js.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/js/js_kZB0bXDa8Pwle-hJPzC3gooh5cwBUvm7eK8owNeTo7E.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/js/js_kZB0bXDa8Pwle-hJPzC3gooh5cwBUvm7eK8owNeTo7E.js.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/js/js_oadhZR6JGKRRtsZ3EoJGFfsSaS0FNxpsWlZTRGeuClc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/js/js_oadhZR6JGKRRtsZ3EoJGFfsSaS0FNxpsWlZTRGeuClc.js.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/js/js_wYJZ_5V4hPXuvaDrltVFEz8sY2CJeu6QZ5iSCpHkv-w.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/js/js_wYJZ_5V4hPXuvaDrltVFEz8sY2CJeu6QZ5iSCpHkv-w.js.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63___string_template__5b5242_v5nrDLoP8rolfVs1IrButIEJY/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63___string_template__5b5242_v5nrDLoP8rolfVs1IrButIEJY/koQ0TovucZyGO29PT47pk7xjFV0egsrMv5ZKsQWcSFw.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_field--node--created.html_Oh0-iJuuH4rfke-T-2GDNm8Yi/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_field--node--created.html_Oh0-iJuuH4rfke-T-2GDNm8Yi/GnJD49KPU4fqsByx5-zjXkP4nlEAjcmgpxLs5dIGgs8.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_field--node--title.html.t_W0FrMWrCd_Kr3IndJTGUh8dAA/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_field--node--title.html.t_W0FrMWrCd_Kr3IndJTGUh8dAA/WjIyoUBh0AfsNo9RMRrrriQTFGsCmEMMvCjVFRrZFkg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_field--node--uid.html.twi_EMdatQObVLVXP64v0pcO_kyk4/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_field--node--uid.html.twi_EMdatQObVLVXP64v0pcO_kyk4/lLwVpL-Amq-uyu_fcLUbcfM3BLFKV1s8UeSp9IFr4HA.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_field--text-with-summary._Yf9TY178NbO73kAunzm4OgcoN/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_field--text-with-summary._Yf9TY178NbO73kAunzm4OgcoN/Da3WBKi5c8elgTmaP7f4J54jAhtvcvZagWs3qPtVbm4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_field--text.html.twig_YCh-l2lN1ZFgh_J7bwco14T7L/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_field--text.html.twig_YCh-l2lN1ZFgh_J7bwco14T7L/szaoVYu9nqInh0p-wt71RjY75PRm2Oge6zpHhCwXwsQ.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_field.html.twig_YExizU9nNXVsSVvVKIzEX-Qhj/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_field.html.twig_YExizU9nNXVsSVvVKIzEX-Qhj/I7BGtwaB9zmKUt36sB12QA32qBRsO6WrEfKVaKOMrUM.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_links--node.html.twig_SyaUcTDam4ea3YmiQj2YI8oPw/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_links--node.html.twig_SyaUcTDam4ea3YmiQj2YI8oPw/DJ0wlzdWvEJccFydWf9oKb4ySsdFVR0XQKeaft6BBTg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_node.html.twig_CPSl0ymNqm_cF1TVbo4YghpuN/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_node.html.twig_CPSl0ymNqm_cF1TVbo4YghpuN/Su2hMdsOgOAhRAiHTxm2e9KIeE6Li5OwW75h96GzQAc.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_rdf-metadata.html.twig_kpprk_zBXCQ9V8V0acXWjaVwU/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_rdf-metadata.html.twig_kpprk_zBXCQ9V8V0acXWjaVwU/NMn0Xd5dqMhS2-mvcEsaLbXduWGgkVg9paUqlspwYTo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_user.html.twig_Nr96XH55r3wo-C-yMXtfm65dV/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_user.html.twig_Nr96XH55r3wo-C-yMXtfm65dV/1gsvpUKm6V0N08Da5Gfyic4gIC2V2LvmS-OvZE-oMXE.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_views-ui-container.html.t_xRAjB7pO2tvn13PxaRzWJ14kL/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_views-ui-container.html.t_xRAjB7pO2tvn13PxaRzWJ14kL/m02D7JfTGeh1ViIZlILMBYUfk8y9y3QJknDjhnsIy-4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_views-ui-display-tab-buck_QpakLd6vGwYc_iI5T5BkRWcL6/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_views-ui-display-tab-buck_QpakLd6vGwYc_iI5T5BkRWcL6/fjhCpDTLR6eAZ44glczhiTA_4DYKjI5_ObMq2hR2yqA.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_views-ui-display-tab-sett_D9AgPCxg-ND-1lVwvhbDzKIx8/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_views-ui-display-tab-sett_D9AgPCxg-ND-1lVwvhbDzKIx8/SuUgl536P6y3JXUu1j6_zGNMOJKWDRlraJzf8zOdubw.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_views-ui-view-displays-li_P6i0JITcWlgQ0Li8TkusL8-Ys/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_views-ui-view-displays-li_P6i0JITcWlgQ0Li8TkusL8-Ys/jjYP_GiFrmU6-2StHI3aTWCjCEe6rbv3f8uR2JoRF2s.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_views-ui-view-preview-sec_rq6KSSipmwu8dJ302l0iMggKx/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_views-ui-view-preview-sec_rq6KSSipmwu8dJ302l0iMggKx/USOdrnqi3z2tki1MfAv8FHcR2YT8h83F2CBijnmAEpk.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_views-ui-views-listing-ta_Mjc6o8k2fsdlLLeCVJpWtcKP9/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/60780b34c0b63_views-ui-views-listing-ta_Mjc6o8k2fsdlLLeCVJpWtcKP9/vNEtiuUU8qZwgY77eC1OSUzu3hirJ8zhZWML7FP4Ln4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sites/default/files/styles/medium/public/2021-04/generateImage_4FdQXl.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/sites/default/files/sync/block.block.bartik_content.yml" beforeDir="false" afterPath="$PROJECT_DIR$/web/sites/default/files/sync/block.block.bartik_content.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/sites/default/files/sync/block.block.bartik_help.yml" beforeDir="false" afterPath="$PROJECT_DIR$/web/sites/default/files/sync/block.block.bartik_help.yml" afterDir="false" />
@@ -220,7 +156,7 @@
       <workItem from="1618480186985" duration="239000" />
       <workItem from="1618480429507" duration="210000" />
       <workItem from="1618480858951" duration="11000" />
-      <workItem from="1618893717273" duration="1658000" />
+      <workItem from="1618893717273" duration="2775000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,4 @@
+services:
+  random_quote.mashape:
+    class: Drupal\random_quote\MashapeQuots
+    arguments: ['@http_client']

@@ -1,0 +1,5 @@
+name: 'random_quote'
+type: module
+description: 'RandomQuotes'
+core: 8.x
+package: 'Custom'
